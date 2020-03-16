@@ -1,0 +1,1 @@
+# text_for_uzarow_rnd
