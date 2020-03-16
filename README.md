@@ -1,3 +1,1 @@
-text1
-text2
-twxt3
+# goit-js-hw-07
