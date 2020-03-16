@@ -1,1 +1,3 @@
-# text_for_uzarow_rnd
+text1
+text2
+twxt3
